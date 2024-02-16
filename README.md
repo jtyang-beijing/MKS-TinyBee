@@ -1,4 +1,16 @@
-Modified Codes clearing bugs - duplcated variables declaring and 'srv_build' related warnnings...
+Modified Codes clearing bugs - Macros variable re-define and 'srv_build' related warnnings...
+
+VS Code Version: 1.86.2 (user setup)
+Commit: 903b1e9d8990623e3d7da1df3d33db3e42d80eda
+Date: 2024-02-13T19:40:56.878Z
+Electron: 27.2.3
+ElectronBuildId: 26908389
+Chromium: 118.0.5993.159
+Node.js: 18.17.1
+V8: 11.8.172.18-electron.0
+OS: Windows_NT x64 10.0.19045
+
+PlatformIO Core, version 6.1.13
 
 # MKS-TinyBee
   - MKS TinyBee is a mainboard for 3d printing, based on ESP32 module. Support Marlin2.0 firmware, in addition to ordinary LCD2004, 12864 screens, it also supports MKS MINI12864 V3, and MKS TFT serial screen, and MKS H43. The firmware can be updated via USB. Can be connected to WIFI, web page control printing. 
