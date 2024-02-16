@@ -61,7 +61,7 @@
 #define _E7DIAG_ 0xE7
 
 #define _FORCE_INLINE_ __attribute__((__always_inline__)) __inline__
-#undef FORCE_INLIN
+#undef FORCE_INLINE
 #define FORCE_INLINE  __attribute__((always_inline)) inline
 #define NO_INLINE      __attribute__((noinline))
 #define _UNUSED      __attribute__((unused))
