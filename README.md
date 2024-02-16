@@ -1,11 +1,9 @@
+Modified Codes clearing bugs - duplcated varaible declearing and 'srv_build' related warnnings...
+
 # MKS-TinyBee
   - MKS TinyBee is a mainboard for 3d printing, based on ESP32 module. Support Marlin2.0 firmware, in addition to ordinary LCD2004, 12864 screens, it also supports MKS MINI12864 V3, and MKS TFT serial screen, and MKS H43. The firmware can be updated via USB. Can be connected to WIFI, web page control printing. 
   - MKS TinyBee小蜜蜂主板，是一款集成ESP32 wifi模块的3D打印控制板。支持Marlin 2.0固件，除了支持普通的LCD2004,12864之外，还支持了MKS MINI12864 V3，并且，可以使用MKS TFT串口屏、MKS H43。固件更新可以使用USB直接下载，可以连接wifi进行网页控制打印。
     ![MKS TinyBee](https://github.com/makerbase-mks/MKS-TinyBee/blob/main/hardware/Image/MKS%20TinyBee%20V1.x.png)
-
-# How to buy MKS TinyBee
-- Makerbase official: https://www.aliexpress.com/item/1005003639545394.html
-- Makerbase Global:   https://www.aliexpress.com/item/1005003640084870.html
 
 # Features
   - Support Marlin 2.0.x
