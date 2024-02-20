@@ -53,7 +53,7 @@
 #define X_STOP_PIN                            33
 #define Y_STOP_PIN                            32
 #define Z_STOP_PIN                            22
-//#define FIL_RUNOUT_PIN                        35
+#define FIL_RUNOUT_PIN                        35
 
 //
 // Enable I2S stepper stream
