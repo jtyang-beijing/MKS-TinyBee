@@ -1,3 +1,18 @@
+Upload onto MKS-TinyBee board succeed. Configure Reprap MINI_12864 LCD succeed
+NOTE:\/\/\/\/\/\/\/\/\/\/\/
+//
+// RepRapDiscount FULL GRAPHIC Smart Controller
+// https://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller
+//
+#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+BUT NOT xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//
+// MKS MINI12864 with graphic controller and SD support
+// https://reprap.org/wiki/MKS_MINI_12864
+//
+#define MKS_MINI_12864
+2ND SELECTION WILL NOT WORK BUT ONLY LCD LIGHT ON WITHOUT DISPLAY
+
 Modified Codes clearing bugs - Macros variable re-define and 'srv_build' related warnnings...
 
 VS Code Version: 1.86.2 (user setup)
