@@ -1,2 +1,2 @@
-#define WIFI_SSID "DYNA24"
-#define WIFI_PWD  "renishawhkbro903"
+#define WIFI_SSID "8888"
+#define WIFI_PWD  "88888888"
